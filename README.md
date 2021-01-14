@@ -1,2 +1,2 @@
 # four-seasons
-Few small tests with geoip, validation and duplicates
+Few small minimalist tests with geoip, validation and duplicates
